@@ -1,4 +1,4 @@
-     {
+     
 	"footer": {
 		"social": [
 			{
@@ -6,25 +6,8 @@
 				"subtitle": "Facebook",
 				"icon": "fab fa-facebook-square",
 				"url": "https://www.facebook.com/danfisher.dev/"
-			},
-			{
-				"title": "Necrotwt",
-				"subtitle": "Twitter",
-				"icon": "fab fa-twitter",
-				"url": "https://twitter.com/danfisher_dev"
-			},
-			{
-				"title": "Necroplays",
-				"subtitle": "Twitch",
-				"icon": "fab fa-twitch",
-				"url": "https://twitch.tv"
-			},
-			{
-				"title": "Necrochat",
-				"subtitle": "Discord",
-				"icon": "fab fa-discord",
-				"url": "https://discordapp.com/"
 			}
+
 		]
 	}
 }
